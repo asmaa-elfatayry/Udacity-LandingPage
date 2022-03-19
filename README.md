@@ -1,4 +1,5 @@
-- landing page project 
+<h1>landing page project </h1>
+
 - I started by declaring the variable i use :- declare all sections and declare the parent of li =>ul
 - second i create function that loop on the elements by the number of sections and create li element and
 append the li to ul parent
